@@ -1,0 +1,26 @@
+{
+  "name": "react-animate",
+  "version": "0.0.1",
+  "description": "A collection of transitions for react.",
+  "main": "animate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roodboi/react-animate.git"
+  },
+  "keywords": [
+    "animation",
+    "react",
+    "reactjs",
+    "react-animate",
+    "animate"
+  ],
+  "author": "Dimitri Kennedy <dkennedy@hubspot.com>",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/roodboi/react-animate/issues"
+  },
+  "homepage": "https://github.com/roodboi/react-animate"
+}
